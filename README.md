@@ -62,7 +62,7 @@
 ```
 VITE_SUPABASE_URL=https://xxxx.supabase.co
 VITE_SUPABASE_KEY=sb_publishable_...
-VITE_BASE=/sarfa/
+VITE_BASE=/
 ```
 
 Бесплатный проект засыпает после 7 дней без запросов — его можно разбудить в панели Supabase.
